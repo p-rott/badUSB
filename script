@@ -1,1 +1,2 @@
-echo testScript
+echo badUSB Test
+du -h
