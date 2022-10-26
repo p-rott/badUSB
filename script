@@ -1,2 +1,2 @@
 echo badUSB Test
-du -h
+df -h
